@@ -3,6 +3,8 @@ Spark Decision Tree Kelompok 5, TI 3G
 
 TI3G
 
-Meliusa Nora Hariyanti
+ ~ Meliusa Nora Hariyanti
 
-Dherisma Hanindita Utami
+~ Dherisma Hanindita Utami
+
+Data : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
